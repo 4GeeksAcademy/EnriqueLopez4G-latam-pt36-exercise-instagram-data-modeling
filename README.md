@@ -16,7 +16,7 @@ Please watch these two short videos explaining ERDs:
 
 You will have to create the Entity Relationship Diagram for Instagram's Database - a very similar diagram to this one:
 
-![Instagram Diagram](https://github.com/breatheco-de/exercise-instagram-data-modeling/blob/master/assets/example.png?raw=true)
+01120||     ![Instagram Diagram](https://github.com/breatheco-de/exercise-instagram-data-modeling/blob/master/assets/example.png?raw=true)
 [Click to open diagram](https://app.quickdatabasediagrams.com/#/d/LxNXQZ)
 
 > 🔥 You can use this FREE tool to practice your diagram for the first time: https://app.quickdatabasediagrams.com/#/d/
